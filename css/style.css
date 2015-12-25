@@ -1,0 +1,12 @@
+.loading-configuration {
+    background: url('../img/ajax-loader.gif') no-repeat center;
+    height: 33px;
+}
+
+#configuration_history {
+    white-space: normal;
+}
+
+#configuration_history .config-message {
+    word-break: break-all;
+}
